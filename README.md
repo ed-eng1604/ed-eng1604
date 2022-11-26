@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ed-eng1604
 - 👀 I’m interested in learn computer science
-- 🌱 I’m currently learning CS50 - Harvada
+- 🌱 I’m currently learning CS50 - Harvad
 - 💞️ I’m looking to collaborate on python, programming codes
 - 📫 How to reach me email
 eddsantos1604@gmail.com
